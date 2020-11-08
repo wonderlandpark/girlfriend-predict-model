@@ -1,6 +1,6 @@
 # solo-girlfriend-model
 
-@SaidbySolo의 여자친구 데이터를 통한 여자친구가 언제 생길지 예측해보기.
+[@SaidbySolo](https://github.com/SaidBySolo)의 여자친구 데이터를 통한 여자친구가 언제 생길지 예측해보기.
 
 ## 학습 데이터
 
