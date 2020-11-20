@@ -1,13 +1,16 @@
 # solo-girlfriend-model
 
-[@SaidbySolo](https://github.com/SaidBySolo)의 여자친구 데이터를 통한 여자친구가 언제 생길지 예측해보기.
-
-## 학습 데이터
+Use your girlfriend data to predict when you will have a girlfriend.
+## Training Data
 
 [data.csv](./data.csv)
 
-직접 제공해주신 솔로님 감사드립니다!
+Thanks to [@SaidbySolo](https://github.com/SaidBySolo) for providing girlfriend data.
 
-## 학습 결과
+## Result
 
-![그래프](./result.png)
+![graph](./result.png)
+
+## So where do I use this?
+
+idk
